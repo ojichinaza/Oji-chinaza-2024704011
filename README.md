@@ -1,2 +1,2 @@
-# Oji-chinaza-2024704011
+# Oji-chinaza-2024704002
 Assignment- To convert scores to grades using Python 
